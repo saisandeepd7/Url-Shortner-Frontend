@@ -1,0 +1,1 @@
+export const API="https://sathya-url-shortner.herokuapp.com"
